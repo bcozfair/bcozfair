@@ -107,6 +107,7 @@ const fair = {
 <img src="https://img.shields.io/badge/Top%20Lang-JavaScript-0ea5e9?style=flat-square" />
 <img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square" />
 <img src="https://img.shields.io/badge/PHP-22d3ee?style=flat-square" />
+<br/><br/>
 
 <!-- ✅ demolab เสถียรกว่า herokuapp -->
 <img src="https://streak-stats.demolab.com?user=bcozfair&theme=tokyonight&border=6366f1&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee" />
