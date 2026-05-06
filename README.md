@@ -104,10 +104,10 @@ const fair = {
 
 <div align="center">
 
-<!-- ✅ ใช้ github-stats.as93.net แทน vercel.app สาธารณะ เสถียรกว่ามาก -->
-<img src="https://github-stats.as93.net/api?username=bcozfair&show_icons=true&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&hide_border=false" height="165"/>
+<!-- ✅ ใช้ community instance ที่เสถียร -->
+<img src="https://github-readme-stats-eight-rho.vercel.app/api?username=bcozfair&show_icons=true&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&hide_border=false" height="165"/>
 &nbsp;
-<img src="https://github-stats.as93.net/api/top-langs/?username=bcozfair&layout=compact&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=bcozfair&layout=compact&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8&langs_count=8" height="165"/>
 
 <br/><br/>
 
