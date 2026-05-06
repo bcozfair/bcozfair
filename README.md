@@ -44,13 +44,16 @@ const fair = {
 
 <div align="center">
 
-<a href="https://github.com/bcozfair/nmt-pallet-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bcozfair&repo=nmt-pallet-system&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&cache_seconds=1800" />
-</a>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [📦 NMT Pallet System](https://github.com/bcozfair/nmt-pallet-system) | ระบบจัดการพาเลทสินค้า | ![React](https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-22d3ee?style=flat-square&logo=node.js&logoColor=white) |
+| [📬 Smart Parcel Box](https://github.com/bcozfair/Smart-Parcel-Box) | ตู้รับพัสดุอัจฉริยะ IoT | ![Arduino](https://img.shields.io/badge/Arduino-6366f1?style=flat-square&logo=arduino&logoColor=white) ![Python](https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=white) |
+
+<br/>
+
+[![NMT Pallet System](https://img.shields.io/badge/🔗_NMT_Pallet_System-View_on_GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bcozfair/nmt-pallet-system)
 &nbsp;
-<a href="https://github.com/bcozfair/Smart-Parcel-Box">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bcozfair&repo=Smart-Parcel-Box&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&cache_seconds=1800" />
-</a>
+[![Smart Parcel Box](https://img.shields.io/badge/🔗_Smart_Parcel_Box-View_on_GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bcozfair/Smart-Parcel-Box)
 
 </div>
 
@@ -101,13 +104,13 @@ const fair = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bcozfair&show_icons=true&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&hide_border=false&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bcozfair&show_icons=true&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&hide_border=false&rank_icon=github&cache_seconds=3600" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcozfair&layout=compact&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcozfair&layout=compact&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8&cache_seconds=3600&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<!-- ✅ เปลี่ยนจาก herokuapp (ล่มบ่อย) มาใช้ demolab ซึ่งเสถียรกว่า -->
+<!-- ✅ streak-stats.demolab.com เสถียรกว่า herokuapp -->
 <img src="https://streak-stats.demolab.com?user=bcozfair&theme=tokyonight&border=6366f1&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee" />
 
 <br/><br/>
