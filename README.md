@@ -104,39 +104,18 @@ const fair = {
 
 <div align="center">
 
-<!-- ✅ Static badges — ไม่พึ่ง API โหลดได้แน่นอน -->
+<img src="https://github-readme-stats.vercel.app/api?username=bcozfair&show_icons=true&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&hide_border=false" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcozfair&layout=compact&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8" height="165"/>
 
-### 💻 Languages & Tools I Use
+<br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-0ea5e9?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-6366f1?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-22d3ee?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-0ea5e9?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-6366f1?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Beginner-22d3ee?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bcozfair&theme=tokyonight&border=6366f1&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee" />
 
-<br/>
+<br/><br/>
 
-### 🚀 Currently Working On
-
-![NestJS](https://img.shields.io/badge/Learning-NestJS-0ea5e9?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Learning-TypeScript-6366f1?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Learning-Docker-22d3ee?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/>
-
-### 📈 Activity
-
-[![GitHub followers](https://img.shields.io/github/followers/bcozfair?label=Followers&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white)](https://github.com/bcozfair)
-[![GitHub stars](https://img.shields.io/github/stars/bcozfair?label=Total%20Stars&style=for-the-badge&color=6366f1&logo=github&logoColor=white)](https://github.com/bcozfair)
-
-<br/>
-
-[![NMT Pallet System stars](https://img.shields.io/github/stars/bcozfair/nmt-pallet-system?label=⭐%20nmt-pallet-system&style=flat-square&color=22d3ee)](https://github.com/bcozfair/nmt-pallet-system)
-[![NMT Pallet System forks](https://img.shields.io/github/forks/bcozfair/nmt-pallet-system?label=🍴%20Forks&style=flat-square&color=0ea5e9)](https://github.com/bcozfair/nmt-pallet-system)
-&nbsp;&nbsp;
-[![Smart Parcel Box stars](https://img.shields.io/github/stars/bcozfair/Smart-Parcel-Box?label=⭐%20Smart-Parcel-Box&style=flat-square&color=22d3ee)](https://github.com/bcozfair/Smart-Parcel-Box)
-[![Smart Parcel Box forks](https://img.shields.io/github/forks/bcozfair/Smart-Parcel-Box?label=🍴%20Forks&style=flat-square&color=0ea5e9)](https://github.com/bcozfair/Smart-Parcel-Box)
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bcozfair&bg_color=0d1117&color=22d3ee&line=6366f1&point=0ea5e9&area=true&hide_border=false&border_color=6366f1" width="95%"/>
 
 </div>
 
