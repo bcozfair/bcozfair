@@ -104,12 +104,9 @@ const fair = {
 
 <div align="center">
 
-<!-- ✅ ใช้ community instance ที่เสถียร -->
-<img src="https://github-readme-stats.vercel.app/api?username=bcozfair&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcozfair&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" height="165"/>
-
-<br/><br/>
+<img src="https://img.shields.io/badge/Top%20Lang-JavaScript-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square" />
+<img src="https://img.shields.io/badge/PHP-22d3ee?style=flat-square" />
 
 <!-- ✅ demolab เสถียรกว่า herokuapp -->
 <img src="https://streak-stats.demolab.com?user=bcozfair&theme=tokyonight&border=6366f1&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee" />
